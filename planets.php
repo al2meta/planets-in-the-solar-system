@@ -171,6 +171,6 @@
 				<?php echo options($selected_planet); ?>
 			</select>
 		</form><br/><br/>
-		<?php echo show_planet($selected_planet); ?><br/><br/>
+		<?php show_planet($selected_planet); ?><br/><br/>
 	</body>
 </html>
